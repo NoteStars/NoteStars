@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![My Skills](https://skillicons.dev/icons?i=arch,docker,emacs,mysql,redhat&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,docker,emacs,mysql,redhat,ubuntu&theme=dark)](https://skillicons.dev)
 <img src="https://notestars-readme-linkedin.vercel.app/experience?username=jonathannguyen0001" />
