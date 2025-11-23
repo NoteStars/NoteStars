@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+**I'm Jonathan (he/him)** - I'm currently a college student learning Management Information Systems at UNLV. My work includes tournament organizing for local events (LVL UP EXPO, EVO), managing Linux servers, and broadcasting!
+
 <!--
 **NoteStars/NoteStars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![My Skills](https://skillicons.dev/icons?i=arch,docker,emacs,mysql,redhat&theme=dark)](https://skillicons.dev)
