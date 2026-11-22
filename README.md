@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 -->
 [![My Skills](https://skillicons.dev/icons?i=arch,docker,emacs,mysql,redhat,ubuntu&theme=dark)](https://skillicons.dev)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=NoteStars&layout=compact&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=NoteStars&layout=compact&langs_count=4&theme=tokyonight)
+---
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=NoteStars&layout=donut-vertical&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=NoteStars&layout=donut-vertical&langs_count=4&theme=tokyonight)
