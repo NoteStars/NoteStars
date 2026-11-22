@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 ---
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=NoteStars&layout=donut-vertical&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=NoteStars&layout=donut-vertical&langs_count=4&theme=tokyonight)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=NoteStars&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=NoteStars&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark_github)
